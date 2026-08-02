@@ -1,4 +1,7 @@
-This is a port of Stefan Berinde's Wingraph unit for fpc/Delphi7 to Virtual Pascal 2.1.279.
+# Wingraph for Virtual Pascal
+
+This is a port of Stefan Berinde's Wingraph unit for fpc/Delphi7 to Virtual Pascal 2.1.279.  
+Original source is here: https://math.ubbcluj.ro/~sberinde/wingraph/
 
 Target OS: Windows (32/64 bits).
 
