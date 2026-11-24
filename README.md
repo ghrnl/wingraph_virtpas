@@ -21,3 +21,6 @@ Some relevant compiler options:
 With a new VP install the initial settings are fine.
 
 Demo.pas linker option: set to Compatible with GUI.
+
+# Credits
+To Stefan Berinde for his well-written wingraph unit.
